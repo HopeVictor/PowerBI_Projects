@@ -4,6 +4,7 @@ Addiction Behavior & Lifestyle Impact Analysis Dashboard
 ## Table of Contents
 * [Project Desciption](#Project-Description)
 * [Business Questions](#Business-Questions)
+* [View Dashboard](#View-Dashboard)
 * [Conclusion](#Conclusion)
 
 ## Project Desciption
@@ -69,11 +70,11 @@ This was completed in **Excel** using Power Query.
 
 Across all age groups, smoking rates remain consistently high, averaging around 10 cigarettes per day.
 
-Insight
+#### Insight
 
 Smoking appears to be a widespread behavior within the surveyed population, with little variation across age categories.
 
-Business Impact
+#### Business Impact
 
 General anti-smoking campaigns may be insufficient. More targeted behavioral intervention programs may be required.
 
@@ -81,11 +82,11 @@ General anti-smoking campaigns may be insufficient. More targeted behavioral int
 
 Average alcohol consumption remains approximately 5 drinks per week across all age groups.
 
-Insight
+#### Insight
 
 Alcohol consumption appears relatively stable regardless of age.
 
-Business Impact
+#### Business Impact
 
 Alcohol awareness programs should target the broader population rather than focusing solely on younger or older demographics.
 
@@ -93,23 +94,23 @@ Alcohol awareness programs should target the broader population rather than focu
 
 Respondents who exercise daily, weekly, rarely, or never show very similar smoking and drinking patterns.
 
-Insight
+#### Insight
 
 Exercise alone does not appear to significantly reduce addictive behaviors within this dataset.
 
-Business Impact
+#### Business Impact
 
 Health programs should combine physical activity initiatives with addiction counseling and behavioral support.
 
 * Mental Health Status Shows Strong Association
 
-Individuals with Poor, Average, and Good mental health all exhibit high smoking and drinking rates, though respondents with poorer mental health show slightly higher addiction indicators.
+  Individuals with Poor, Average, and Good mental health all exhibit high smoking and drinking rates, though respondents with poorer mental health show slightly higher addiction indicators.
 
-Insight
+#### Insight
 
 Mental health may play a role in sustaining addictive habits.
 
-Business Impact
+#### Business Impact
 
 Integrating mental health support into addiction treatment programs could improve outcomes.
 
@@ -117,11 +118,11 @@ Integrating mental health support into addiction treatment programs could improv
 
 Smoking and drinking rates remain relatively consistent across education levels.
 
-Insight
+#### Insight
 
 Addiction behaviors are not isolated to a specific educational background.
 
-Business Impact
+#### Business Impact
 
 Awareness campaigns should target all education groups rather than assuming higher education reduces addiction risk.
 
@@ -129,11 +130,11 @@ Awareness campaigns should target all education groups rather than assuming high
 
 Average BMI values remain similar across age groups while smoking rates stay consistently high.
 
-Insight
+#### Insight
 
 No strong relationship exists between BMI and smoking behavior in this dataset.
 
-Business Impact
+#### Business Impact
 
 BMI may not be an effective predictor for addiction risk assessment.
 
@@ -141,11 +142,11 @@ BMI may not be an effective predictor for addiction risk assessment.
 
 The scatter plot indicates a relationship between the age respondents started smoking and the number of cigarettes consumed daily.
 
-Insight
+#### Insight
 
 Individuals who begin smoking at younger ages tend to maintain higher smoking intensity later in life.
 
-Business Impact
+#### Business Impact
 
 Prevention programs targeting teenagers and young adults could significantly reduce long-term addiction rates.
 
@@ -153,28 +154,56 @@ Prevention programs targeting teenagers and young adults could significantly red
 
 Annual income demonstrates little influence on smoking frequency.
 
-Insight
+#### Insight
 
 Smoking behavior occurs across income levels.
 
-Business Impact
+#### Business Impact
 
 Addiction intervention programs should be designed for broad accessibility rather than income-specific targeting.
 
 ## Data Visualization
-Here is the dashboard.  
+Page 1.  
 <br/><br/>
-![Finance Dashboard](https://github.com/HopeVictor/Power-BI-Projects/blob/main/1.png)
+![Addiction Analysis Dashboard](https://github.com/HopeVictor/PowerBI_Projects/blob/main/Addiction%20Analysis%20Page%201.png)
 
 <figure>
-  <img src="https://github.com/HopeVictor/Power-BI-Projects/blob/main/1.png" width=100% height=100% alt="alt text">
-  <figcaption>Figure: Finance Dashboard</figcaption>
-</figure>
+
+  Page 2.  
 <br/><br/>
+![Addiction Analysis Dashboard](https://github.com/HopeVictor/PowerBI_Projects/blob/main/Addiction%20Analysis%20Page%202.png)
 
-## Insights Uncovered
+<figure>
 
-## Recommendations
+## View Dashboard
+  [Click here](https://app.powerbi.com/view?r=eyJrIjoiMjA3ZDI3YzktMTU0OS00MjBjLTliMjEtMTAzYzM2NTZkZDlhIiwidCI6ImI4YTczMWUzLTE2NjAtNDNiZS1hNzY3LTdiNGQ5NzBhODM0MCJ9)
+## Recommendation
 
+* Focus on Early Prevention Programs
+
+  Develop educational campaigns aimed at adolescents and young adults before smoking and drinking habits become established.
+
+* Integrate Mental Health Support
+
+  Combine addiction treatment programs with mental health counseling to address underlying behavioral factors.
+
+* Implement Behavioral Intervention Strategies
+
+  Since addiction rates remain high across demographics, organizations should invest in personalized cessation programs rather than relying solely on awareness campaigns.
+
+* Monitor High-Risk Groups
+
+  Create risk segmentation models to identify individuals likely to develop long-term addiction habits.
+
+* Promote Healthy Lifestyle Packages
+
+  Combine exercise, nutrition, sleep improvement, and addiction recovery initiatives into a single wellness program.
+
+* Develop Predictive Analytics Models
+
+  Leverage machine learning and advanced Power BI analytics to predict addiction risks and optimize intervention efforts.
 
 ## Conclusion
+* The Addiction Analysis Dashboard reveals that smoking and drinking behaviors are prevalent across multiple demographic and lifestyle groups. Traditional factors such as age, education, exercise frequency, and income show       limited influence on addiction patterns, while mental health and early initiation age appear to have a stronger relationship with long-term addictive behavior.
+
+* The findings suggest that successful addiction reduction strategies should prioritize early prevention, mental health support, and targeted intervention programs rather than broad demographic-based campaigns. Through data-    driven decision-making, organizations can better allocate resources and design more effective public health initiatives.
